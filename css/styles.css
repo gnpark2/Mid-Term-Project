@@ -7703,6 +7703,15 @@ textarea.form-control-lg {
   margin-left: auto !important;
 }
 
+.mx-auto {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.my-auto {
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+}
+
 .p-0 {
   padding: 0 !important;
 }
